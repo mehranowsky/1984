@@ -1,0 +1,13 @@
+{
+    "js":[
+        "eval",
+        "window.location",
+        "addEventListener(\"message",
+        ".innerHTML",
+        "outerHTML",
+        "setTimeout",
+        "setInterval",
+        "setAttribute",
+        "document.write"
+    ]
+}
